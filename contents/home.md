@@ -1,17 +1,14 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![luoin666666](https://img.shields.io/badge/luoin666666-github-blue?logo=github)](https://github.com/luoin666666)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
-
+我目前是周口师范学院2024级数据科学与大数据技术专业的本科生。
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: 2296846025@qq.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+本科，数据科学与大数据技术专业，周口师范学院，2024年9月–2028年6月。
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
-
+我热衷于学习新的编程知识，会通过在线课程、技术博客等方式不断提升自己。在闲暇时间，喜欢听音乐来放松身心；课余时间经常打排球，保持良好的身体状态。
